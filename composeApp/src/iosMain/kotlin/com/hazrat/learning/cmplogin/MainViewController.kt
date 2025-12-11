@@ -1,0 +1,5 @@
+package com.hazrat.learning.cmplogin
+
+import androidx.compose.ui.window.ComposeUIViewController
+
+fun MainViewController() = ComposeUIViewController { App() }
